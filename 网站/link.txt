@@ -2,3 +2,7 @@ https://blog.csdn.net/Fredric18/article/details/89337594
 https://cowtransfer.com/
 https://www.cnblogs.com/graphics/archive/2012/08/08/2609005.html
 https://learnopengl-cn.github.io/
+
+http://blog.leanote.com/post/zhendu_ict/CUDA%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8
+
+https://blog.csdn.net/xiaohu2022/article/details/79599947#cuda%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80
